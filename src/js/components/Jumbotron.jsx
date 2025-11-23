@@ -19,9 +19,8 @@ const Jumbotron = () => {
           similique quaerat nam nobis illo aspernatur vitae fugiat numquam
           repellat.
         </p>
-        <a href="#" className="btn btn-primary btn-lg">
-          Call to action!
-        </a>
+       <a href="#" className="btn btn-warning">Find Out More!</a>
+
       </div>
     </div>
   );
